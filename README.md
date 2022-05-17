@@ -3,7 +3,7 @@
 
 ### I think we're the ones who accept and follow this world without thinking about changing it<br/>
 
-## stats
+## tats
 ![void](https://github-readme-stats.vercel.app/api?username=VoidAsMad&show_icons=true&theme=dark)<br/>
 
 ## Discord

@@ -20,8 +20,9 @@
 > [Request_Neon](https://github.com/VoidAsMad/Request_Neon) - 네온님이 의뢰하신 티켓봇입니다.<br/>
 > [Request-jucubox](https://github.com/VoidAsMad/request-jucubox) - jucubox님이 의뢰하신 게임봇입니다.<br/>
 > [Request-Hyunseong](https://github.com/VoidAsMad/request-Hyunseong) - 현성님이 의뢰하신 블랙리스트 외주봇입니다.<br/>
-> [request-Lux](https://github.com/VoidAsMad/request-Lux) - Lux님이 의뢰하신 특수목적봇입니다.<br/>
-> [request-odeng](https://github.com/VoidAsMad/request-odeng) - 오뎅님이 의뢰하신 관리봇입니다.<br/>
+> [Request-Lux](https://github.com/VoidAsMad/request-Lux) - Lux님이 의뢰하신 특수목적봇입니다.<br/>
+> [Request-odeng](https://github.com/VoidAsMad/request-odeng) - 오뎅님이 의뢰하신 관리봇입니다.<br/>
+> [Request-dal](https://github.com/VoidAsMad/request-dal) - 달🌖님이 의뢰하신 유틸리티봇입니다.
 
 ## Python Library
 > [Naver_Search](https://github.com/VoidAsMad/Naver_Search) - 네이버 API를 사용해 만든 비공식 검색 라이브러리입니다.<br/>

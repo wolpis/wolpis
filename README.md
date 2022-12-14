@@ -12,4 +12,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoidAsMad&repo=Naipy)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoidAsMad&repo=Pixivery)](https://github.com/anuraghazra/github-readme-stats)
 ## Discord
-[<img src="https://img.shields.io/badge/discord-4374D9?style=for-the-badge&logo=discord&logoColor=white">](https://discord.gg/gZdss4T8X6)
+[<img src="https://img.shields.io/badge/discord-4374D9?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/users/712838792595112006)

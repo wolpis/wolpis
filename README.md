@@ -19,5 +19,7 @@
 https://www.devksy.xyz/
 
 ## About
-[<img src="https://img.shields.io/badge/discord-4374D9?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/users/712838792595112006)
 [<img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/wol.pis/)
+
+[<img src="https://discord.c99.nl/widget/theme-2/712838792595112006.png">](https://discord.com/users/712838792595112006)
+

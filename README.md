@@ -12,7 +12,7 @@
 
 ## Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoidAsMad&repo=Naipy)](https://github.com/VoidAsMad/Naipy)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoidAsMad&repo=Pixivery)](https://github.com/VoidAsMad/Pixivery)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoidAsMad&repo=ETRI)](https://github.com/VoidAsMad/ETRI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoidAsMad&repo=jsonly)](https://github.com/VoidAsMad/jsonly)
 
 ## Portfolio

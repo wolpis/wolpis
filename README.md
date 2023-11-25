@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"><br/>
 ## Stats
-![void](https://github-readme-stats.vercel.app/api?username=VoidAsMad&show_icons=true&theme=dark)<br/>
+![void](https://github-readme-stats.vercel.app/api?username=wolpis&show_icons=true&theme=dark)<br/>
 
 ## Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoidAsMad&repo=Naipy)](https://github.com/VoidAsMad/Naipy)<br>

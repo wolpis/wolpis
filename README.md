@@ -11,9 +11,9 @@
 ![void](https://github-readme-stats.vercel.app/api?username=wolpis&show_icons=true&theme=dark)<br/>
 
 ## Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoidAsMad&repo=Naipy)](https://github.com/VoidAsMad/Naipy)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoidAsMad&repo=ETRI)](https://github.com/VoidAsMad/ETRI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoidAsMad&repo=jsonly)](https://github.com/VoidAsMad/jsonly)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wolpis&repo=Naipy)](https://github.com/wolpis/Naipy)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wolpis&repo=ETRI)](https://github.com/wolpis/ETRI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wolpis&repo=jsonly)](https://github.com/wolpis/jsonly)
 
 ## Portfolio
 https://www.devksy.xyz/

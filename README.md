@@ -16,7 +16,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wolpis&repo=jsonly)](https://github.com/wolpis/jsonly)
 
 ## Portfolio
-https://www.devksy.xyz/
+https://devksy.xyz/
 
 ## About
 [<img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/wol.pis/)
